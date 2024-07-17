@@ -29,6 +29,12 @@ render.experimental.xml
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
+# Firebase Admin SDK
+service-account-key-staging.json
+
+# local user settings
+user-settings.json
+
 # Android Profiling
 *.hprof
 
